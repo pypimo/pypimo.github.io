@@ -1,9 +1,11 @@
 # pypimo.github.io
 Portfolio website to showcase my projects
 
-portfolio website --> to include
+--> to include
 
-socials
-projects to be made
-resume
-animations
+* socials
+* projects to be made
+* resume
+* animations
+* theme change
+* images
